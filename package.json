@@ -1,0 +1,11 @@
+{
+  "name": "docker-project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
